@@ -4,29 +4,26 @@ This is a classic Arkanoid ball game implemented in Java, applying Object-Orient
 
 ## Game Levels
 
-[Watch Video](./bin/pictures/video_game.mp4)
-
-
 1. **Level 1** (Direct Hit):
     - Features 1 ball.
     - A basic level designed for new players to get familiar with the game.
-    - ![Level 1 Image](./bin/pictures/step1.png)
+    - ![Level 1 Image](./pictures/step1.png)
 
 
 2. **Level 2** (Wide Easy):
     - Features 10 balls.
     - A step up from Level 1, introducing more challenge while remaining accessible.
-    - ![Level 2 Image](./bin/pictures/step2.png)
+    - ![Level 2 Image](./pictures/step2.png)
 
 3. **Level 3** (Green 3):
     - Features 2 balls.
     - Offers a balanced challenge, testing the player's reflexes and strategy.
-    - ![Level 3 Image](./bin/pictures/step3.png)
+    - ![Level 3 Image](./pictures/step3.png)
 
 4. **Level 4** (Final Four):
     - Features 3 balls.
     - The hardest level, requiring both skill and quick reflexes to win.
-    - ![Level 4 Image](./bin/pictures/step4.png)
+    - ![Level 4 Image](./pictures/step4.png)
 
 ## How to Compile
 
